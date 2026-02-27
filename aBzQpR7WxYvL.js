@@ -2,7 +2,7 @@
     teachers: [
         {
                     "id": 1740790303973,
-                    "name": "حيدر عبدالائمة 2025☢︎",                                     
+                    "name": "حيدر عبدالائمة 2025",                                     
                     "subject": "مدرس مادة الرياضيات ",
                     "image": "https://k.top4top.io/p_3709vpq5n0.jpg",
                     "classes": [
@@ -811,7 +811,7 @@
                 {
                     "id": 1740790563504,
                     "name": "حسين الهاشمي 2025",
-                    "subject": "مدرس مادة الكيمياء",
+                    "subject": "مدرس مادة الكيمياء ☢︎",
                     "image": "https://k.top4top.io/p_3709vpq5n0.jpg",
                     "classes": [
                       {
