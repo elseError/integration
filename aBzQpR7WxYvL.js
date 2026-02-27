@@ -2,7 +2,7 @@
     teachers: [
         {
                     "id": 1740790303973,
-                    "name": "حيدر عبدالائمة 2025",                                     
+                    "name": "حيدر عبدالائمة 2025☢︎",                                     
                     "subject": "مدرس مادة الرياضيات ",
                     "image": "https://k.top4top.io/p_3709vpq5n0.jpg",
                     "classes": [
